@@ -10,7 +10,7 @@ from response_html import Preview
 from datetime import date
 import pdfkit
 
-openai.api_key = "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"
+openai.api_key = "sk-YOUR OPENAI API CODE" # Enter your openAI code
 
 today = date.today().strftime("%Y-%m-%d")
 
